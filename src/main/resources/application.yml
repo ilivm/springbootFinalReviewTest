@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: INFO
+    org.springframework:
+      security: DEBUG
+      web: DEBUG
+    com.udacity.jwdnd.c1.review: DEBUG
